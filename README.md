@@ -30,9 +30,6 @@ The code relies on popular Python libraries, including Pandas, NumPy, Matplotlib
 💡 Contributions:
 I welcome contributions from the open-source community! If you have any suggestions, improvements, or additional analyses to enhance the project, feel free to create a pull request. Together, we can expand our knowledge and understanding of baby naming trends in the United States.
 
-📝 License:
-This project is released under the [Your chosen license] license. Please refer to the LICENSE file for more details.
-
 ✉️ Contact:
 If you have any questions or would like to get in touch, feel free to reach out to me via email: koladeemmanuela32@gmail I am open to collaborations and discussions related to this project.
 
